@@ -32,9 +32,6 @@ export default function Examples(){
             </>}>
             {tabContent}
           </Tabs>
-          <menu>
-
-          </menu>
         </Section>
     );
 }
